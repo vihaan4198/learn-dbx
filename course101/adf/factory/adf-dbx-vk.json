@@ -1,0 +1,9 @@
+{
+	"name": "adf-dbx-vk",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "702ee9c6-89bc-4ad2-af9e-a14ec6197a37",
+		"tenantId": "d3d402ef-42d8-4c14-a5dd-09fc49aaef4b"
+	}
+}
